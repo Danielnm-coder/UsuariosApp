@@ -1,6 +1,6 @@
-# FinancasApp
+# UsuariosApp
 
-O FinancasApp é um projeto ASP.NET MVC desenvolvido com Entity Framework Code First que permite o controle de contas a pagar e receber de usuários. O sistema permite que os usuários criem uma conta para acessar as funcionalidades oferecidas.
+O UsuariosApp é um projeto ASP.NET Api desenvolvido com Entity Framework Code First que permite o usuario fazer login no sistema.
 
 ## Estrutura do Projeto
 
@@ -22,9 +22,7 @@ Para executar o projeto, siga os passos abaixo:
     ```bash
     update-database
     ```
-
-3. Utilize o arquivo `script.sql` fornecido para realizar uma carga inicial no banco de dados.
-
+    
 ## Pré-requisitos
 
 Certifique-se de ter o Visual Studio 2022 instalado para executar o projeto.
